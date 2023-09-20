@@ -1,0 +1,1 @@
+////controllers are the functions that will allow us to get information into the end points(routes), and foward it to who ever is calling it
